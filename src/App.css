@@ -1,0 +1,13 @@
+.main {
+    height: 100vh;
+    overflow: hidden;
+    overflow-y: scroll;
+    width: 100%;
+}
+
+
+.p-tabview .p-tabview-nav {
+
+    list-style: none !important;
+    display: flex !important;
+}

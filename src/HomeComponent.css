@@ -1,0 +1,46 @@
+.LeftBody {
+    background-color: rgb(13, 13, 195);
+    height: "100%";
+}
+
+.leftbodyIcon {
+    margin-top: 15px;
+    margin-left: 30px;
+    font-size: 15px;
+    color: aliceblue;
+}
+
+.LeftbodyContent {
+    text-align: center;
+    font-size: 15px;
+    color: aliceblue;
+    margin-top: 22px;
+}
+
+.PurchaseBtn {
+    width: 250px;
+    padding-top: 12px;
+    color: rgb(80, 80, 240);
+
+}
+
+.PurchaseBtn1 {
+    font-size: 15px;
+
+}
+
+.headerNav {
+    font-size: 20px;
+    font-weight: 650;
+    color: blue;
+    margin-right: 15px;
+    margin-left: 10px;
+}
+
+.headerIcon {
+
+    color: blue;
+    height: 40px;
+    margin-top: 14px;
+    /* background-color: rgb(203, 222, 243); */
+}
